@@ -1,0 +1,33 @@
+.background
+{
+	background-image: url("background-login.png");
+	background-size: cover;
+}
+#head
+{
+	font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+	color:white;
+}
+label
+{
+	color: white;
+}
+#logo
+{
+	height: 50px;
+	width: 80px;
+}
+.cute-bird
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+h3, h4
+{
+	color:yellow;
+}
+#user_name_div
+{
+	margin-top: 60px;
+	margin-left: 400px;
+}
